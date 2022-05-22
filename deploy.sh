@@ -3,4 +3,7 @@ deploy python app
 deploy in the dev envD
 deployment5 master
 deployment4
-deploy to staging 
+deploy to staging
+echo good job
+tested and accepted
+
